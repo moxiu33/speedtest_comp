@@ -20,7 +20,7 @@ To get started with `speedtest_comp`, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/speedtest_comp.git
+    git clone https://github.com/moxiu33/speedtest_comp.git
     ```
 
 2. Navigate to the project directory:
